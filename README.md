@@ -1,5 +1,5 @@
 # IPL-Match-DataAnalysis
-<<<<<<< HEAD
+
 🏏 IPL 2022 Match Data Analysis
 📌 Project Overview
 The Indian Premier League (IPL) is a major professional T20 cricket league. This project explores the match-level data from the 2022 IPL season. The goal is to use data science to understand what determines a match outcome, how specific players performed, and the overall dynamics of the teams throughout the tournament.
